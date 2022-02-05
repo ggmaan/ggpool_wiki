@@ -1,0 +1,2 @@
+
+# GGPool Wiki
