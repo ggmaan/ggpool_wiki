@@ -1,2 +1,4 @@
 
 # GGPool Wiki
+
+Sample test
