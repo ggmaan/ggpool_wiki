@@ -1,4 +1,4 @@
 
 # GGPool Wiki
 
-Sample test
+All GGPool collective information.
